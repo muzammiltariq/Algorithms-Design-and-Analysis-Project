@@ -9,4 +9,4 @@
 
 The attached report describes the research and analsyis of the project.
 
-The Demo of the project: https://youtu.be/AbxpSLvAqEo
+The demo of the project: https://youtu.be/AbxpSLvAqEo
