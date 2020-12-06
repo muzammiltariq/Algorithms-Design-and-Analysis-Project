@@ -4,6 +4,7 @@ import numpy as np
 import random
 from scipy.interpolate import UnivariateSpline
 
+# These algorithms were learnt from https://www.geeksforgeeks.org/applications-of-string-matching-algorithms/
 '''                  NAIVE                        '''
 
 #naive: O(m*(n-m+1) 
